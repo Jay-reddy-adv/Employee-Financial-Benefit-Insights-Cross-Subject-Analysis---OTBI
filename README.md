@@ -1,5 +1,5 @@
 
-#Employee Compensation & Benefits Cross-Subject Analysis
+# Employee Compensation & Benefits Cross-Subject Analysis
 
 
 **This OTBI report provides a consolidated view of employee details from multiple subject areas—specifically Workforce Assignments, Compensation, and Benefits. It helps HR and finance stakeholders analyze an employee’s salary trends, last salary change, and benefit plan enrollments in a single view.**
@@ -75,5 +75,14 @@ Employee program participation across time
 ---> Benefits Administrators
 
 ---> HR Reporting Teams
+
+
+
+**📸 Snapshots of the Report**
+
+![img_alt](https://github.com/Jay-reddy-adv/Employee-Financial-Benefit-Insights-Cross-Subject-Analysis---OTBI/blob/b80ec878dbe6e14b910de11ffff610c9f634aff0/Title.png)
+
+
+![img_alt](https://github.com/Jay-reddy-adv/Employee-Financial-Benefit-Insights-Cross-Subject-Analysis---OTBI/blob/b80ec878dbe6e14b910de11ffff610c9f634aff0/Table.png)
 
 
